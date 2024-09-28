@@ -22,7 +22,7 @@ repository               : "https://github.com/yingnan-rl"
 author:
   # Biographic information
   avatar           : "geren.png"
-  #name             : "Yingnan Zhao(赵英男)"
+  name             : "Yingnan Zhao(赵英男)"
   pronouns         : # example: "he/his"  
   #bio              : "Short biography for the left-hand sidebar"
   location         : "Harbin"
